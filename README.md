@@ -1,16 +1,35 @@
-## Hi there 👋
+# 👋 Welcome to Coder’s Club
 
-<!--
-**dpescodersclub/dpescodersclub** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🚀 **Official GitHub Profile of Coder’s Club – Dhole Patil Engineering, Pune**  
+We are a community of passionate developers, learners, and innovators working together to **code, build, and grow**.  
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🌟 About Us
+- 💻 Student-driven club focused on **programming, development, and innovation**  
+- 📚 Organizers of **workshops, hackathons, and coding challenges**  
+- 🤝 Creating a space for **peer learning, mentorship, and collaboration**  
+
+---
+
+## 🛠️ What We Do
+✔️ Hands-on **workshops & sessions**  
+✔️ **Hackathons & competitions**  
+✔️ Build & share **open-source projects**  
+✔️ **Knowledge sharing & mentorship**  
+
+---
+
+## 🌐 Connect with Us
+
+[![Website](https://img.shields.io/badge/🌐-Website-blue)](https://codersclub.tech)  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-DPES%20Coders%20Club-blue?logo=linkedin)](https://www.linkedin.com/company/dpescodersclub/)  
+[![Instagram](https://img.shields.io/badge/Instagram-@dpes__coders__club-E4405F?logo=instagram)](https://www.instagram.com/dpes_coders_club/)  
+
+📧 Email: codersclub@dpcoepune.edu.in  
+
+---
+
+## ⭐ Join Us
+Whether you’re a **beginner or a pro**, Coder’s Club is the right place to **learn, collaborate, and innovate**.  
+Let’s code the future together 🚀
